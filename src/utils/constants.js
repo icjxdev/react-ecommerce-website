@@ -1,5 +1,7 @@
 import React from "react";
-import { GiCompass, GiDiamondHard, GiStabbedNote } from "react-icons/gi";
+import { MdVideogameAsset } from "react-icons/md";
+import { FaGamepad, FaHandPointer } from "react-icons/fa";
+
 export const links = [
   {
     id: 1,
@@ -21,21 +23,21 @@ export const links = [
 export const services = [
   {
     id: 1,
-    icon: <GiCompass />,
-    title: "mission",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi",
+    icon: <MdVideogameAsset />,
+    title: "Premium Gaming Gadgets",
+    text: "Find top-quality gaming gadgets from renowned brands to take your gaming experience to the next level.",
   },
   {
     id: 2,
-    icon: <GiDiamondHard />,
-    title: "vision",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi",
+    icon: <FaGamepad />,
+    title: "Wireless Gaming Accessories",
+    text: "Get rid of the hassle of cords and cables and enjoy wireless freedom with our range of gaming accessories.",
   },
   {
     id: 3,
-    icon: <GiStabbedNote />,
-    title: "history",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi",
+    icon: <FaHandPointer />,
+    title: "Customizable Gaming Peripherals",
+    text: "Personalize your gaming setup with our customizable gaming peripherals and accessories to match your style and needs.",
   },
 ];
 

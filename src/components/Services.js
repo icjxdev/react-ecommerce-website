@@ -8,13 +8,12 @@ const Services = () => {
       <div className="section-center">
         <article className="header">
           <h3>
-            custom furniture <br />
-            built only for you
+            premium gaming gadgets <br />
+            built for ultimate performance
           </h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
-            dolorum debitis consectetur reprehenderit non aliquam voluptates
-            dolore aut vero consequuntur.
+            Find top-quality gaming gadgets from renowned brands to take your
+            gaming experience to the next level.
           </p>
         </article>
         <div className="services-center">
@@ -47,6 +46,12 @@ const Wrapper = styled.section`
     margin-bottom: 0;
     line-height: 1.8;
     color: var(--clr-primary-3);
+  }
+  .services-center {
+    margin-top: 4rem;
+    display: flex; /* add display flex */
+    flex-wrap: wrap;
+    justify-content: center;
   }
   .services-center {
     margin-top: 4rem;

@@ -8,14 +8,15 @@ const Hero = () => {
     <Wrapper className="section-center">
       <article className="content">
         <h1>
-          design your <br />
-          comfort zone
+          unleash your <br />
+          gaming potential
         </h1>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto, at
-          sed omnis corporis doloremque possimus velit! Repudiandae nisi odit,
-          aperiam odio ducimus, obcaecati libero et quia tempora excepturi quis
-          alias?
+          Get your hands on the latest and greatest gaming gadgets from
+          GameWave. Whether you're a console or PC gamer, we've got you covered
+          with top-of-the-line gaming accessories that will take your gaming
+          experience to the next level. Shop now and join the GameWave
+          revolution!
         </p>
         <Link to="/products" className="btn hero-btn">
           shop now

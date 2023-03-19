@@ -14,16 +14,19 @@ const AboutPage = () => {
             <h2>our story</h2>
             <div className="underline"></div>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat
-              accusantium sapiente tempora sed dolore esse deserunt eaque
-              excepturi, delectus error accusamus vel eligendi, omnis beatae.
-              Quisquam, dicta. Eos quod quisquam esse recusandae vitae neque
-              dolore, obcaecati incidunt sequi blanditiis est exercitationem
-              molestiae delectus saepe odio eligendi modi porro eaque in libero
-              minus unde sapiente consectetur architecto. Ullam rerum, nemo iste
-              ex, eaque perspiciatis nisi, eum totam velit saepe sed quos
-              similique amet. Ex, voluptate accusamus nesciunt totam vitae esse
-              iste.
+              Founded in 2015, GameWave has been providing top-quality products
+              to customers around the world. We specialize in all sorts of
+              gaming peripherals and are proud to offer a wide range of options
+              to suit every need and budget. Our team is made up of experienced
+              professionals who are passionate about what they do. From our
+              designers and engineers to our customer service representatives,
+              everyone at GameWave is committed to delivering the best possible
+              experience to our customers. We believe that quality and
+              affordability should go hand in hand. That's why we work hard to
+              keep our prices competitive without ever compromising on the
+              quality of our products. Whether you're a professional gamer or
+              just starting out, we have something for everyone. Thank you for
+              choosing GameWave. We look forward to serving you!
             </p>
           </div>
         </article>
