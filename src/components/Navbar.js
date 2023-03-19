@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import logo from "../assets/logo.svg";
+import Logo from "./Logo";
 import { FaBars } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { links } from "../utils/constants";
@@ -17,7 +17,7 @@ const Nav = () => {
       <div className="nav-center">
         <div className="nav-header">
           <Link to="/">
-            <img src={logo} alt="comfy sloth" />
+            <Logo />
           </Link>
           <button type="submit" className="nav-toggle" onClick={openSidebar}>
             <FaBars />
